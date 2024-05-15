@@ -98,3 +98,26 @@ nav {
         display: flex;
     }
 }
+
+#hero-section {
+    color: #eaeaea;
+    text-align: center;
+    background-color: #0a1128;
+    padding: 30px;
+}
+
+#hero-header {
+    font-weight: bold;
+    padding: 30px;
+}
+
+#hero-text {
+    padding-bottom: 30px;
+}
+
+#hero-btn {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #00e5ff;
+    border: none;
+}
