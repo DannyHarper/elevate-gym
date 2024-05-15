@@ -20,6 +20,65 @@ The website follows modern UX design principles to include ease of use, accessib
 
     d. As a first-time visitor, I want to find the gym’s address, and contact details easily so I can visit or get in touch with any questions.
 
+  * #### Returning Visitor Goals 
+
+  a. As a returning visitor, I want to quickly access the current class schedule to plan my visits for the week.
+
+  b. As a returning visitor, I want to review the benefits of my membership and see if there are any new perks or upgrades available.
+
+  c. As a returning visitor, I want to learn more about the gym’s  mission, and values to feel more connected to the community.
+
+
+  * #### Frequent Visitor Goals 
+
+  a. As a frequent user, I want to quickly find information about the classes I regularly attend, including any last-minute changes or updates.
+
+  b. As a frequent user, I want to stay connected with the gym community by reading about the trainers and staff.
+
+  c. As a frequent user, I want an easy way to provide feedback or suggestions to the gym management to help improve my experience.
+
+
+## Design
+
+* ### Colour Scheme
+
+* ### Typography
+
+* ### Images
+
+* ### Videos
+
+* ### Map Integration
+
+
+## Wireframes
+
+
+## Feautures
+
+## Technologies Used
+
+## Libraries & Programmes Used
+
+## Testing
+
+## Bugs
+
+## Deployment
+
+## Credits
+
+### Code
+
+### Content
+
+### Media
+
+
+
+
+
+
 
 
 
