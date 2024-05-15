@@ -18,7 +18,7 @@ The website follows modern UX design principles to include ease of use, accessib
 
     c. As a first time visitor, I want to understand the different membership plans and their benefits so that I can choose the best option for me.
 
-    d. As a first-time visitor, I want to find the gym’s address, opening hours, and contact details easily so I can visit or get in touch with any questions.
+    d. As a first-time visitor, I want to find the gym’s address, and contact details easily so I can visit or get in touch with any questions.
 
 
 
