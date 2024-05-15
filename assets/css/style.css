@@ -323,6 +323,18 @@ nav {
     background: rgba(0, 229, 255, 0.3);
 }
 
+#class-photo-container {
+    display: flex;
+    justify-content: center;
+}
+
+#class-photo {
+    max-width: 60%;
+    height: auto;
+    border-radius: 8px;
+}
+
+
 @media (max-width: 768px) {
     #classes-title {
         font-size: 1.5em;
@@ -549,6 +561,81 @@ nav {
     }
 
     .team-card-text {
+        font-size: 1em;
+    }
+}
+
+#content {
+    flex: 1 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+#signup-container {
+    background: rgba(28, 28, 30, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+#signup-title {
+    margin-bottom: 10px;
+    font-size: 2em;
+    color: #00e5ff;
+}
+
+#signup-description {
+    margin-bottom: 20px;
+    font-size: 1.1em;
+    color: #eaeaea;
+}
+
+#signup-form .form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+#signup-form label {
+    display: block;
+    margin-bottom: 5px;
+    color: #eaeaea;
+}
+
+#signup-form input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#signup-btn {
+    display: inline-block;
+    font-size: 1.2em;
+    padding: 10px 20px;
+    color: #1c1c1e;
+    background: #00e5ff;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+#signup-btn:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 768px) {
+    #signup-title {
+        font-size: 1.5em;
+    }
+
+    #signup-description {
         font-size: 1em;
     }
 }
