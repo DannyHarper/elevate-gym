@@ -20,3 +20,19 @@ The website follows modern UX design principles to include ease of use, accessib
 
     d. As a first-time visitor, I want to find the gym’s address, opening hours, and contact details easily so I can visit or get in touch with any questions.
 
+
+
+
+
+
+
+
+
+## Credits
+
+### Problem Solutions
+
+  * Struggled with some readme formatting.
+    [Found my solutions here](https://stackoverflow.com/questions/26960735/how-do-you-indent-a-bulleted-list-in-a-readme-file-using-github-flavored-markdow)
+    
+    [And here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
