@@ -8,9 +8,9 @@ The website follows modern UX design principles to include ease of use, accessib
 
 ## User Experience (UX)
 
-* User Stories
+* ### User Stories
 
-  * First Time Visitor Goals
+  * #### First Time Visitor Goals
 
     a. As a first time visitor, I want to quickly understand the range of services and facilities the gym offers so that I can decide if it meets my fitness needs.
 
