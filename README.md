@@ -74,7 +74,9 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ## Feautures
 
-
+ • The website is fully responsive on all screen sizes.
+ • Accessible in terms of careful thought on colour scheme, alt text to describe photos for screen readers.
+ • There are interactive feautures such as the vidoes and map.
 
 ## Technologies Used
 
