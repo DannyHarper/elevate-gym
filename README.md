@@ -87,6 +87,25 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ## Libraries & Programmes Used
 
+1. Google Fonts [https://fonts.google.com/]
+
+• Google fonts was used to import the Montserrat font to the style.css file.
+
+2.Font Awesome [https://fontawesome.com/]
+
+• Font awesome was used for the footer of all pages to include icons to social media accounts.
+
+3. Git [https://git-scm.com/]
+
+• Git was used for version control throughout this project, using Gitpod terminal to commit to Git and push files to GitHub.
+
+4. GitHub [https://github.com/]
+
+• GitHub is used to store my project files and code when pushed from Git
+
+5. Figma [https://www.figma.com]
+
+• Figma was used to create the wireframes while designing this project.
 
 
 ## Testing
