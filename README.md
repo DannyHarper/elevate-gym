@@ -71,6 +71,8 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ## Wireframes
 
+![Home Page](home-page.png)
+
 
  ## Feautures
 
