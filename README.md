@@ -42,23 +42,48 @@ The website follows modern UX design principles to include ease of use, accessib
 
 * ### Colour Scheme
 
+I was very careful when choosing the colours, I wanted to make sure of good contrast, but also wanted to stay away from pure blacks & whites as much as possible, as I'm aware of some research suggesting too much of this can cause headaches and in some cases migraines. So, I used off versions of these colours where possible.
+
+* Header & Footer - #1c1c1e
+* Buttons/CTAs - #00e5ff
+* Text on light backgrounds - #0a1128 & #1c1c1e
+* Text on dark backgrounds - #f5f5f5 mostly
+* Icons - #f5f5f5
+* Hover on nav - #00e5ff
+
 * ### Typography
+
+• I was thinking of using two different fonts, but decided to stick with Montserrat throughout the whole website to keeo everything clean and consistent. 
+ Sans Serif is the back up incase the original font doesn't work properly. 
 
 * ### Images
 
+• Images help to build trust, so I wanted to include images of people enjoing the facilities but also not too much, as to overwhelm and take away from the main point of the website.
+
+
 * ### Videos
+
+• Videos also help build trust, I feel like in today's busy world videos are also easier to digest than writing, so I made sure to include a couple of videos where appropriate. 
 
 * ### Map Integration
 
+• I felt like for this website, an address on it's own wasn't very clear, a map integration pointing directly to where the gym is will be a big help to the users.
 
 ## Wireframes
 
 
 ## Feautures
 
+
+
 ## Technologies Used
 
+
+
+
 ## Libraries & Programmes Used
+
+
 
 ## Testing
 
