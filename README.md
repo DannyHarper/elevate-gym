@@ -71,8 +71,13 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ## Wireframes
 
+![home-page](https://github.com/DannyHarper/elevate-gym/assets/168748843/610d75c3-37ee-4472-bb10-3efa2e825824)
+![Classes](https://github.com/DannyHarper/elevate-gym/assets/168748843/c4751675-b855-42a1-9f00-6c03de9ee82a)
+![Membership](https://github.com/DannyHarper/elevate-gym/assets/168748843/670b79ba-d39c-48c9-8eb2-0ab7fad96245)
+![About Us](https://github.com/DannyHarper/elevate-gym/assets/168748843/01864bfc-5016-4d96-b6c1-72be4a4b1121)
+![Sign Up](https://github.com/DannyHarper/elevate-gym/assets/168748843/fa4f301b-e502-4551-ba1c-c7aa9e3d3458)
 
-## Feautures
+ ## Feautures
 
  • The website is fully responsive on all screen sizes.
  • Accessible in terms of careful thought on colour scheme, alt text to describe photos for screen readers.
