@@ -91,7 +91,7 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ![Sign Up](sign-up-2.png)
 
-* Very simple and to the point sign up form, the idea is that they fill out thier details and thier membership details are sent to them via email.
+* Very simple and to the point sign up form, the idea is that they fill out thier details and thier membership details are sent to them via email. I have added an FAQ section to effeciently deal with any common queries.
 
 
  ## Feautures
