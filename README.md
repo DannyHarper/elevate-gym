@@ -87,7 +87,7 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 * Again, simplistic approach, clarly detail who the staff are and their roles. The location is very clearly detailed by integrating google maps, allows the user to plan thier journey.
 
-![Sign Up](sign-up.png)
+![Sign Up](sign-up-2.png)
 
 * Very simple and to the point sign up form, the idea is that they fill out thier details and thier membership details are sent to them via email.
 
