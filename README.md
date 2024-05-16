@@ -118,14 +118,28 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ## Credits
 
+### Code
+
 • Took inspiration for hero section from [https://www.w3schools.com/howto/howto_css_hero_image.asp]
 
+• Struggled with youtube embedding so got some help here [https://www.w3schools.com/html/html_youtube.asp]
 
-### Code
+• Inspiration here for the button hover shadow [https://www.w3schools.com/css/css3_buttons.asp]
+
 
 ### Content
 
+• All content written by me from inspiration from other gym websites.
+
 ### Media
+
+Classes image copyright [https://www.facebook.com/photo?fbid=847010467458289&set=a.640421148117223]
+
+Youtube video on Home Page [https://www.youtube.com/watch?v=18xIf-345DU]
+
+Youtube Video on Membership Page [https://www.youtube.com/watch?v=uhFmaPD9aY4]
+
+
 
 
 
