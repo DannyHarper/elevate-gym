@@ -125,7 +125,7 @@ nav {
     margin-bottom: 2rem;
 }
 
-#hero-btn {
+.hero-btn {
     background-color: #00e5ff;
     color: #1c1c1e;
     border: none;
@@ -138,7 +138,7 @@ nav {
     text-decoration: none;
 }
 
-#hero-btn:hover {
+.hero-btn:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   }
 
