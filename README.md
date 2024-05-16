@@ -118,6 +118,9 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ## Credits
 
+• Took inspiration for hero section from [https://www.w3schools.com/howto/howto_css_hero_image.asp]
+
+
 ### Code
 
 ### Content
