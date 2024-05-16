@@ -139,7 +139,13 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ### Media
 
-Classes image copyright [https://www.facebook.com/photo?fbid=847010467458289&set=a.640421148117223]
+Classes images copyright 
+
+[https://www.facebook.com/photo?fbid=847010467458289&set=a.640421148117223]
+
+[https://www.facebook.com/photo/?fbid=833830628776273&set=pb.100064480308297.-2207520000&locale=en_GB]
+
+[https://www.facebook.com/photo/?fbid=821440230015313&set=pb.100064480308297.-2207520000&locale=en_GB]
 
 Youtube video on Home Page [https://www.youtube.com/watch?v=18xIf-345DU]
 
