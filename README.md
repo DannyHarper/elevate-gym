@@ -149,6 +149,10 @@ Passed all tests.
 
 ![CSS](css-test.jpeg)
 
+Lighthouse
+
+![Report](lighthouse-report.jpeg)
+
 ## Bugs
 
 * Youtube embed videos are not responsive on mobile screen.
