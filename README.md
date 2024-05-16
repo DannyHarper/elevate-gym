@@ -126,6 +126,12 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 • Inspiration here for the button hover shadow [https://www.w3schools.com/css/css3_buttons.asp]
 
+• Struggled with some readme formatting.
+
+  Found my solutions here [https://stackoverflow.com/questions/26960735/how-do-you-indent-a-bulleted-list-in-a-readme-file-using-github-flavored-markdow]
+    
+  And here [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#link] 
+
 
 ### Content
 
@@ -154,17 +160,5 @@ Youtube Video on Membership Page [https://www.youtube.com/watch?v=uhFmaPD9aY4]
 
 
 
-## Credits
-
-### Problem Solutions
-
-  * Struggled with some readme formatting.
-    [Found my solutions here](https://stackoverflow.com/questions/26960735/how-do-you-indent-a-bulleted-list-in-a-readme-file-using-github-flavored-markdow)
-    
-    [And here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-
-
-
-    ### Media
 
     
