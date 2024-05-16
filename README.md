@@ -80,6 +80,8 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ## Technologies Used
 
+• HTML
+• CSS
 
 
 
