@@ -79,6 +79,7 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 ![Classes](Classes.png)
 
 * The class page is again very simple, very clear and aesthetic class timetable, along with some images of members enjoying the classes.
+
 ![Membership](Membership.png)
 
 * The membership options are very clear, gives the user a very quick and clear overview of what is included in each one, leaving no room for confusion and the sign up button below each.
@@ -106,25 +107,29 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ## Libraries & Programmes Used
 
-1. Google Fonts [https://fonts.google.com/]
+1.Google Fonts [https://fonts.google.com/]
 
-• Google fonts was used to import the Montserrat font to the style.css file.
+  Google fonts was used to import the Montserrat font to the style.css file.
 
 2.Font Awesome [https://fontawesome.com/]
 
-• Font awesome was used for the footer of all pages to include icons to social media accounts.
+  Font awesome was used for the footer of all pages to include icons to social media accounts.
 
-3. Git [https://git-scm.com/]
+3.Git [https://git-scm.com/]
 
-• Git was used for version control throughout this project, using Gitpod terminal to commit to Git and push files to GitHub.
+  Git was used for version control throughout this project, using Gitpod terminal to commit to Git and push files to GitHub.
 
-4. GitHub [https://github.com/]
+4.GitHub [https://github.com/]
 
-• GitHub is used to store my project files and code when pushed from Git
+  GitHub is used to store my project files and code when pushed from Git
 
-5. Figma [https://www.figma.com]
+5.Figma [https://www.figma.com]
 
-• Figma was used to create the wireframes while designing this project.
+  Figma was used to create the wireframes while designing this project.
+
+  6. CSS Gradient [https://cssgradient.io/]
+
+    CSS Gradient was used to create the gradient in the hero section on the home page.
 
 
 ## Testing
