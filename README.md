@@ -71,7 +71,6 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ## Wireframes
 
-
 ## Feautures
 
  • The website is fully responsive on all screen sizes.
