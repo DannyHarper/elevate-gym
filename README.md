@@ -1,6 +1,6 @@
 # Elevate Gym
 
-You can view the live site here
+You can view the live site here [https://dannyharper.github.io/elevate-gym/]
 
 The Elevate Gym website is designed to provide an accessible, and visually appealing experience for both current gym members and potential new members. 
 
