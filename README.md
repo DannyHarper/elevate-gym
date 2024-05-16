@@ -64,6 +64,8 @@ The website follows modern UX design principles to include ease of use, accessib
 
 ## Bugs
 
+* Youtube embed videos are not responsive on mobile screen.
+
 ## Deployment
 
 ## Credits
