@@ -159,9 +159,49 @@ Lighthouse
 
 • Fixed this by using responsive iframe sizings.
 
+## Further Implementations
+
+Going forward, I'd like to try and improve the overall performance of the website.
 
 
 ## Deployment
+
+This website site is deployed using GitHub Pages. [https://dannyharper.github.io/elevate-gym/]
+
+To Deploy the site using GitHub Pages, you need to:
+
+1. Log in to Github.
+2. Go to the repository for this project - [https://github.com/DannyHarper/elevate-gym]
+3. Click the settings button.
+3. Click pages in the left menu.
+4. From the source dropdown select main branch.
+5. Press save.
+
+
+The website will now be live.
+
+
+## Fork Repository
+
+Forking the GitHub Repository, means making copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository.
+
+You can do this by:
+
+1. Log in to GitHub
+2. Choose the repository you want to fork.
+3. At the top of the repository, click the "Fork" button.
+4. You will now have a copy of the repository in your account.
+
+## Clone Repository
+
+1. Log in to GitHub.
+2. Go to the repository.
+3. Click on the code button.
+4. Choose if you would like to clone with HTTPS, SSH or GitHub CLI and copy the link.
+4. Open the terminal in your code editor and change the working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 4. 
+6. Press enter.
+
 
 ## Credits
 
