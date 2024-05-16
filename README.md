@@ -136,6 +136,19 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ## Testing
 
+W3C Markup Validator [https://validator.w3.org/]
+
+Passed all tests.
+
+![HTML](html-test.jpeg)
+
+
+W3C CSS Validator [https://jigsaw.w3.org/css-validator/]
+
+Passed all tests.
+
+![CSS](css-test.jpeg)
+
 ## Bugs
 
 * Youtube embed videos are not responsive on mobile screen.
