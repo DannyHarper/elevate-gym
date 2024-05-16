@@ -129,9 +129,9 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
   Figma was used to create the wireframes while designing this project.
 
-  6. CSS Gradient [https://cssgradient.io/]
+6. CSS Gradient [https://cssgradient.io/]
 
-    CSS Gradient was used to create the gradient in the hero section on the home page.
+  CSS Gradient was used to create the gradient in the hero section on the home page.
 
 
 ## Testing
