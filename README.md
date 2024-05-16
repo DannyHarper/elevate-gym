@@ -6,6 +6,8 @@ The Elevate Gym website is designed to provide an accessible, and visually appea
 
 The website follows modern UX design principles to include ease of use, accessibility, and engagement.
 
+![Website Display](website.png)
+
 ## User Experience (UX)
 
 * ### User Stories
@@ -137,6 +139,10 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 ## Bugs
 
 * Youtube embed videos are not responsive on mobile screen.
+
+• Fixed this by using responsive iframe sizings.
+
+
 
 ## Deployment
 
