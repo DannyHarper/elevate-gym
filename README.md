@@ -72,10 +72,23 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 ## Wireframes
 
 ![Home Page](home-page.png)
+
+* I wanted to opt for  a very simple and to the point design for the whole website but especially the home page.
+  As soon as the user lands, they know exactly what the website is about.
+
 ![Classes](Classes.png)
+
+* The class page is again very simple, very clear and aesthetic class timetable, along with some images of members enjoying the classes.
 ![Membership](Membership.png)
+
+* The membership options are very clear, gives the user a very quick and clear overview of what is included in each one, leaving no room for confusion and the sign up button below each.
 ![About Us](about-us.png)
+
+* Again, simplistic approach, clarly detail who the staff are and their roles. The location is very clearly detailed by integrating google maps, allows the user to plan thier journey.
+
 ![Sign Up](sign-up.png)
+
+* Very simple and to the point sign up form, the idea is that they fill out thier details and thier membership details are sent to them via email.
 
 
  ## Feautures
