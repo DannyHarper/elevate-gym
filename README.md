@@ -71,7 +71,8 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
 ## Wireframes
 
-## Feautures
+
+ ## Feautures
 
  • The website is fully responsive on all screen sizes.
  • Accessible in terms of careful thought on colour scheme, alt text to describe photos for screen readers.
