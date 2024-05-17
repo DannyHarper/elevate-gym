@@ -100,6 +100,14 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
  • Accessible in terms of careful thought on colour scheme, alt text to describe photos for screen readers.
  • There are interactive feautures such as the vidoes and map.
 
+## Accessibility Features
+
+* I have used a high contrast colour scheme to ensure readability for users with visual impairments. But also been mindful of the reseach I mentioned regarding using pure whites & blacks causing headaches for some people - off colours were used throughout.
+
+* All images have descriptive alt attributes to provide context for screen readers.
+
+* The website is fully responsive, using flexible layouts and media queries to ensure accessibility across all devices, including desktops, tablets, and mobile phones.
+
 ## Technologies Used
 
 • HTML
@@ -133,6 +141,11 @@ I was very careful when choosing the colours, I wanted to make sure of good cont
 
   CSS Gradient was used to create the gradient in the hero section on the home page.
 
+7. Favicon io [https://favicon.io]
+
+Favicon io was used to create the favicon for the website.
+
+
 
 ## Testing
 
@@ -152,7 +165,6 @@ Passed all tests.
 Lighthouse
 
 ![Report](lighthouse-report.jpeg)
-
 
 
 ## Testing User Stories
@@ -260,6 +272,16 @@ The user should be able to read about the trainers and staff, helping them stay 
 Passed.
 
 
+## Further Testing
+
+* The Website was tested on Google Chrome, Safari and Microsoft Edge.
+
+* The website was viewed on desktop, laptop, Iphone14, Iphone15 & Samsung Galaxy S24 Ultra.
+
+* I asked some family members and friends to look at the website and let me know thier thoughts - all positive! 
+
+* All navigation links and buttons work without breaking.
+
 
 ## Bugs
 
@@ -326,6 +348,8 @@ You can do this by:
   Found my solutions here [https://stackoverflow.com/questions/26960735/how-do-you-indent-a-bulleted-list-in-a-readme-file-using-github-flavored-markdow]
     
   And here [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#link] 
+
+• Sourched help from [https://www.w3schools.com/html/html_favicon.asp] to add favicon.
 
 
 ### Content
