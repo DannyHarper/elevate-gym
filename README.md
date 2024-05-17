@@ -6,7 +6,7 @@ The Elevate Gym website is designed to provide an accessible, and visually appea
 
 The website follows modern UX design principles to include ease of use, accessibility, and engagement.
 
-![Website Display](website.png)
+![Website Display](website2.jpeg)
 
 ## User Experience (UX)
 
