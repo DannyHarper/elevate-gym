@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Elevate Gym</title>
 </head>
-<body> 
+
+<body>
     <header>
         <nav>
             <a href="index.html" class="logo">Elevate</a>
-            <input type="checkbox" id="menu-toggle">
-            <label for="menu-toggle" class="menu-icon">&#9776;</label>
+            <input type="checkbox" id="menu-toggle" aria-label="Toggle menu">
+            <label for="menu-toggle" class="menu-icon" aria-hidden="true">&#9776;</label>
             <ul class="menu">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="classes.html">Classes</a></li>
@@ -19,38 +21,44 @@
                 <li><a href="aboutus.html">About Us</a></li>
             </ul>
         </nav>
-        </header>
-        <div id="hero-section">
+    </header>
+
+    <main>
+        <section id="hero-section">
             <h2 id="hero-header">Elevate Your Fitness Journey</h2>
             <p id="hero-text">Discover state of the art facilities, expert trainers, and a vibrant community committed to your success.</p>
             <a href="signup.html" class="hero-btn">Start Getting Stronger Today!</a>
-        </div>
+        </section>
+
         <section id="services">
             <h2 class="section-header">Our Services</h2>
             <p class="section-text">At Elevate Gym, we offer a wide range of fitness services, from personal training to group classes, designed to help you achieve your fitness goals.</p>
             <a href="classes.html" class="hero-btn">Explore Classes</a>
         </section>
-        <div id="video-wrapper">
+
+        <section id="video-wrapper">
             <div class="video-container">
                 <iframe src="https://www.youtube.com/embed/18xIf-345DU?si=QcHH7rEUjpkXcNuH" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
             </div>
-        </div>
+        </section>
+
         <section id="membership-benefits">
             <h2 class="section-header">Membership Benefits</h2>
             <p class="section-text">Join our community and enjoy exclusive membership benefits, including access to all facilities, personalized training plans, and more.</p>
             <a href="membership.html" class="hero-btn">View Membership Options</a>
         </section>
-        <footer id="footer">
-            <p>&copy; 2024 Elevate Gym</p>
-            <div id="social-media-icons">
-                <a href="https://www.facebook.com/puregym/?locale=en_GB" target="_blank" class="social-icon"><i class="fab fa-facebook-f"></i></a>
-                <a href="https://twitter.com/puregym?lang=en" target="_blank" class="social-icon"><i class="fab fa-twitter"></i></a>
-                <a href="https://www.instagram.com/puregymofficial/?hl=en" target="_blank" class="social-icon"><i class="fab fa-instagram"></i></a>
-            </div>
-        </footer>
-        <script src="https://kit.fontawesome.com/d89ba87955.js" crossorigin="anonymous"></script>
+    </main>
 
+    <footer id="footer">
+        <p>&copy; 2024 Elevate Gym</p>
+        <div id="social-media-icons">
+            <a href="https://www.facebook.com/puregym/?locale=en_GB" target="_blank" class="social-icon" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://twitter.com/puregym?lang=en" target="_blank" class="social-icon" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.instagram.com/puregymofficial/?hl=en" target="_blank" class="social-icon" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+        </div>
+    </footer>
 
-    
+    <script src="https://kit.fontawesome.com/d89ba87955.js" crossorigin="anonymous" defer></script>
 </body>
+
 </html>
