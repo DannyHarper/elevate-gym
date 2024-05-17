@@ -360,28 +360,14 @@ nav {
     background: rgba(0, 229, 255, 0.3);
 }
 
-#class-photo-container {
-    display: flex;
-    justify-content: center;
-}
-
-#class-photo {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-}
-
 #class-images-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
     margin-top: 20px;
 }
 
 .class-image-wrapper {
-    flex: 1 1 30%;
-    max-width: 30%;
     position: relative;
     overflow: hidden;
     border-radius: 8px;
@@ -398,6 +384,13 @@ nav {
     width: 100%;
     height: auto;
     display: block;
+}
+
+@media (max-width: 768px) {
+    .class-image-wrapper {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
 }
 
 
