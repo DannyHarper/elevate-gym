@@ -153,6 +153,114 @@ Lighthouse
 
 ![Report](lighthouse-report.jpeg)
 
+
+
+## Testing User Stories
+
+### First Time Visitor Goals
+
+a. Understand the Range of Services and Facilities
+
+### Test: 
+Navigate to the home page.
+
+### Expected Outcome: 
+The user should see a section titled "Our Services" with a brief description of the range of services and facilities offered at the gym.
+### Result:
+Passed.
+
+
+b. Detailed Information About Classes
+
+### Test: 
+Navigate to the "Classes" page.
+
+### Expected Outcome:
+The user should see a detailed list of available classes, including schedules and descriptions.
+
+### Result:
+Passed.
+
+
+c. Understand Membership Plans and Benefits
+
+### Test:
+Navigate to the "Membership" page.
+
+### Expected Outcome:
+The user should see detailed information about different membership plans and their benefits.
+
+### Result:
+Passed. 
+
+
+d. Find the Gym’s Address and Contact Details
+
+### Test:
+Navigate to the "About Us" page.
+
+
+### Expected Outcome: 
+The user should easily find the gym’s address and contact details.
+
+### Result: 
+Passed.
+
+
+
+### Returning Visitor Goals
+
+a. Access the Current Class Schedule
+
+### Test: 
+Navigate to the "Classes" page.
+
+### Expected Outcome: 
+The user should quickly find the current class schedule to plan their visits for the week.
+
+### Result: 
+Passed.
+
+
+b. Review Membership Benefits for New Perks
+
+### Test: 
+Navigate to the "Membership" page.
+
+### Expected Outcome: 
+The user should be able to review their membership benefits and see if there are any new perks or upgrades available.
+
+### Result: 
+Passed.
+
+
+
+c. Learn About the Gym’s Mission and Values
+
+### Test: 
+Navigate to the "About Us" page.
+
+### Expected Outcome: 
+The user should find information about the gym’s mission and values, helping them feel more connected to the community.
+
+### Result: 
+Passed.
+
+### Frequent Visitor Goals
+
+a. Stay Connected with the Gym Community
+
+### Test: 
+Navigate to the "About Us" page.
+
+### Expected Outcome: 
+The user should be able to read about the trainers and staff, helping them stay connected with the gym community.
+
+### Result: 
+Passed.
+
+
+
 ## Bugs
 
 * Youtube embed videos are not responsive on mobile screen.
