@@ -274,7 +274,7 @@ Passed.
 
 ## Further Testing
 
-* The Website was tested on Google Chrome, Safari and Microsoft Edge.
+* The Website was tested on Google Chrome, Safari, Microsoft Edge, and Firefox.
 
 * The website was viewed on desktop, laptop, Iphone14, Iphone15 & Samsung Galaxy S24 Ultra.
 
